@@ -2,7 +2,7 @@
 
 **Built on:** ServiceNow Developer Instance (Zurich Release)  
 **Author:** Meghana Lakshminarayana Swamy  
-**Skills Demonstrated:** ITSM, Platform Analytics, Flow Designer, Service Catalog, Incident Management
+**Skills Demonstrated:** IT Service Management (ITSM), Platform Analytics, Flow Designer, Service Catalog, Incident Management
 
 ---
 
